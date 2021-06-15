@@ -1,4 +1,4 @@
-編號,存活,船票等級,姓名,性別,年齡,船票號碼,票價,船艙編號,出發地
+乘客編號,生還,船艙等級,姓名,性別,年齡,船票編號,票價,船艙號碼,登船口岸
 1,0,3,"Braund, Mr. Owen Harris",male,22,A/5 21171,7.25,,S
 2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,PC 17599,71.2833,C85,C
 3,1,3,"Heikkinen, Miss. Laina",female,26,STON/O2. 3101282,7.925,,S
